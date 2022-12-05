@@ -1,6 +1,6 @@
 # Software Development 1
 ## Coursework 2
-### Last Updated: 15 November 2022 by Fakhreldin Saeed, Shekoufeh Rahimi and Arturo Araujo
+### Last Updated: 15 November 2022 by Skeeper Loyaltie
 
 **The prestigious football club who originally hired our Software Development company is very pleased with the outcome and has requested an extension.** Taking the program that you have crafted for coursework 1, you are asked to add the following functionality (up to 72 points, depending on scoring an “Excellent” score in each rubric component):
 1.	Functions (8 points): Split and pack up your coursework 1 code into functions. The program must contain a main() function and at least two other functions called “calculate_rating()” and “calculate_salary()”.Use the main() function to call the other functions to receive the 6 player’s skill ratings, calculate the player’s score and their salary range.
